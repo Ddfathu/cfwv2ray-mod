@@ -1,5 +1,5 @@
 {
-  "proxy_ip": "35.219.23.252:443",
+  "proxy_ip": "103.150.192.28:443",
   "udp_relay_host": "udpwsrelay-proxy-production.up.railway.app",
   "udp_relay_port": 443
 }
