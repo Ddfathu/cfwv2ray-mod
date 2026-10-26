@@ -1,5 +1,5 @@
 {
-  "password_hash": "a92b0974fc053c457e118237668817d3650d42fdbeb24a5a1df76801b2c847a6",
-  "session_token": "045b9364f64e53651b470bbbaa6fba5aa51d5f9ef643cf0ea70573ddc904a07b",
-  "updated_at": "2026-10-26T00:15:09.986Z"
+  "password_hash": "",
+  "session_token": "",
+  "reset_at": "2026-10-26T00:20:12.830Z"
 }
