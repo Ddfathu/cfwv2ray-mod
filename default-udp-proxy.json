@@ -1,5 +1,5 @@
 {
   "proxy_ip": "31.58.103.3:20567",
-  "udp_relay_host": "31.58.103.3=20566",
+  "udp_relay_host": "31.58.103.3",
   "udp_relay_port": 443
 }
